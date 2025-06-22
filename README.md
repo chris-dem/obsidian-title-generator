@@ -1,1 +1,1 @@
-# obsidian-title-generator
+# obsidian-note-title-generator
